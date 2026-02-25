@@ -1,0 +1,33 @@
+﻿---
+alwaysApply: true
+---
+# HIITsergeant Development Guidelines
+
+Auto-generated from all feature plans. Last updated: 2026-02-24
+
+## Active Technologies
+
+- TypeScript (Node.js 20+ backend; React Native/Expo mobile) + Fastify or Express; Firebase Auth or Auth0; Stripe (web); RevenueCat (mobile IAP); Socket.io or ws (realtime); PostgreSQL; WatermelonDB or expo-sqlite (mobile offline) (001-hiit-companion)
+
+## Project Structure
+
+```text
+backend/
+frontend/
+tests/
+```
+
+## Commands
+
+npm test; npm run lint
+
+## Code Style
+
+TypeScript (Node.js 20+ backend; React Native/Expo mobile): Follow standard conventions
+
+## Recent Changes
+
+- 001-hiit-companion: Added TypeScript (Node.js 20+ backend; React Native/Expo mobile) + Fastify or Express; Firebase Auth or Auth0; Stripe (web); RevenueCat (mobile IAP); Socket.io or ws (realtime); PostgreSQL; WatermelonDB or expo-sqlite (mobile offline)
+
+<!-- MANUAL ADDITIONS START -->
+<!-- MANUAL ADDITIONS END -->
